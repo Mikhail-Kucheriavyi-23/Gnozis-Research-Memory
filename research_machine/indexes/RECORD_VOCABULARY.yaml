@@ -1,0 +1,56 @@
+schema_version: "1.0"
+
+index_id: "GNOZIS-C-RECORDS-VOCABULARY-R1"
+
+status: "OBSERVED"
+
+purpose:
+  - "Machine-readable inventory of the observed C-record corpus."
+  - "Records observed structure without rewriting source records."
+  - "Canonical schema remains subject to later mathematical reconciliation."
+
+source:
+  path: "research_machine/records/"
+  record_count: 183
+
+record:
+  required_fields:
+    - id
+    - type
+    - status
+    - title
+    - scope
+    - statement
+    - source
+    - relations
+    - evidence
+    - engineering
+    - created_at
+    - schema_version
+
+observed_values:
+  type:
+    - claim
+
+  status:
+    - FORMALIZED
+
+  relations:
+    - DERIVED_FROM
+    - REFERENCES
+
+  engineering:
+    core_admissibility:
+      - RESEARCH_ONLY
+
+  evidence:
+    empty_value_observed: true
+
+provenance:
+  source:
+    kind: file
+
+immutability:
+  source_records_modified: false
+  vocabulary_is_descriptive: true
+  canonicalization_deferred: true
