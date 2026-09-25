@@ -1,0 +1,35 @@
+schema_version: "1.0"
+
+index_id: "GNOZIS-C-RECORDS-R1"
+
+status: "ACTIVE"
+
+source:
+  repository: "Mikhail-Kucheriavyi-23/Gnozis"
+  path: "research_machine/records/"
+
+target:
+  repository: "Mikhail-Kucheriavyi-23/Gnozis-Research-Memory"
+  path: "research_machine/records/"
+
+record_pattern: "C-####.yaml"
+
+record_count: 183
+
+id_range:
+  first: "C-0001"
+  last: "C-0185"
+
+intentional_gaps:
+  - "C-0127"
+  - "C-0128"
+
+migration:
+  id: "C-RECORDS-R1"
+  commit: "12c1e3b"
+  status: "COMPLETED"
+
+integrity:
+  source_main_modified: false
+  migration_lossless: true
+  content_rewrite: false
