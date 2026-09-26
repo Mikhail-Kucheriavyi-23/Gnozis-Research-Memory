@@ -17,1281 +17,1281 @@
       "source_path": "research_machine/records/C-0001.yaml",
       "source_blob_sha": "ef6596f99f9647b0e0ade7b790624b7a275cae8d",
       "target_path": "research_machine/records/C-0001.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0002",
       "source_path": "research_machine/records/C-0002.yaml",
       "source_blob_sha": "422bcda3945fd0f56324ae1657dc43eb323ea810",
       "target_path": "research_machine/records/C-0002.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0003",
       "source_path": "research_machine/records/C-0003.yaml",
       "source_blob_sha": "bd1de4167901fae20ec304214fc30e2f87230c7f",
       "target_path": "research_machine/records/C-0003.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0004",
       "source_path": "research_machine/records/C-0004.yaml",
       "source_blob_sha": "f48b7e709179519b2f529b703faf6ae89173cd67",
       "target_path": "research_machine/records/C-0004.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0005",
       "source_path": "research_machine/records/C-0005.yaml",
       "source_blob_sha": "dce254a51f72606ce848042199077a32c097d34f",
       "target_path": "research_machine/records/C-0005.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0006",
       "source_path": "research_machine/records/C-0006.yaml",
       "source_blob_sha": "0b3f8163112dd40826d4023c588c38f25052d961",
       "target_path": "research_machine/records/C-0006.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0007",
       "source_path": "research_machine/records/C-0007.yaml",
       "source_blob_sha": "1a8701c1d96ac326d27e95283921e2593882acb0",
       "target_path": "research_machine/records/C-0007.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0008",
       "source_path": "research_machine/records/C-0008.yaml",
       "source_blob_sha": "4f3bde5ab5e99b07bf2ca617db57fc88c3fe12d9",
       "target_path": "research_machine/records/C-0008.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0009",
       "source_path": "research_machine/records/C-0009.yaml",
       "source_blob_sha": "ad0b112c0ef4e56d5be263e21acb078eb3c7a53d",
       "target_path": "research_machine/records/C-0009.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0010",
       "source_path": "research_machine/records/C-0010.yaml",
       "source_blob_sha": "4ecbdb8d2f17a7e0584810ee5d03e541cb44a92e",
       "target_path": "research_machine/records/C-0010.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0011",
       "source_path": "research_machine/records/C-0011.yaml",
       "source_blob_sha": "6b71cd171c551a315dbb9f17825e719fa71e85b6",
       "target_path": "research_machine/records/C-0011.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0012",
       "source_path": "research_machine/records/C-0012.yaml",
       "source_blob_sha": "f3e8598f797371b911174474ec19047fdd72e0c7",
       "target_path": "research_machine/records/C-0012.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0013",
       "source_path": "research_machine/records/C-0013.yaml",
       "source_blob_sha": "68bf47e21129de0bd52cf112af257bb83f4a7ed2",
       "target_path": "research_machine/records/C-0013.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0014",
       "source_path": "research_machine/records/C-0014.yaml",
       "source_blob_sha": "846fd9ae859468d36932465e136dc91f062bb34a",
       "target_path": "research_machine/records/C-0014.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0015",
       "source_path": "research_machine/records/C-0015.yaml",
       "source_blob_sha": "ad38a6061c1140dedbc11110e1ad6645df62aa7e",
       "target_path": "research_machine/records/C-0015.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0016",
       "source_path": "research_machine/records/C-0016.yaml",
       "source_blob_sha": "31fc48edc27bcc9ec66a5a869580bf83a89d7bb7",
       "target_path": "research_machine/records/C-0016.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0017",
       "source_path": "research_machine/records/C-0017.yaml",
       "source_blob_sha": "03eba9e676abcf1e0872a9de84f66b5557f2f00c",
       "target_path": "research_machine/records/C-0017.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0018",
       "source_path": "research_machine/records/C-0018.yaml",
       "source_blob_sha": "8f5e6c5e9d51752c99c0d8400f527d14846a8afd",
       "target_path": "research_machine/records/C-0018.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0019",
       "source_path": "research_machine/records/C-0019.yaml",
       "source_blob_sha": "5e55dd467ef616c5757dc8c38fe206e774f6eff9",
       "target_path": "research_machine/records/C-0019.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0020",
       "source_path": "research_machine/records/C-0020.yaml",
       "source_blob_sha": "ecec54bef440e82a6ee7c69aa95c2985dd69e738",
       "target_path": "research_machine/records/C-0020.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0021",
       "source_path": "research_machine/records/C-0021.yaml",
       "source_blob_sha": "2a690e734a4ef7a07d2517b81c397aebe893bf77",
       "target_path": "research_machine/records/C-0021.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0022",
       "source_path": "research_machine/records/C-0022.yaml",
       "source_blob_sha": "da6acb1afc746644f98589a5ced3a1d45a80b65b",
       "target_path": "research_machine/records/C-0022.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0023",
       "source_path": "research_machine/records/C-0023.yaml",
       "source_blob_sha": "7541962114665085644795667503e0f493c2d244",
       "target_path": "research_machine/records/C-0023.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0024",
       "source_path": "research_machine/records/C-0024.yaml",
       "source_blob_sha": "63a8d7fbe22968e194f77ea4518be1ed09fa46fb",
       "target_path": "research_machine/records/C-0024.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0025",
       "source_path": "research_machine/records/C-0025.yaml",
       "source_blob_sha": "264684ffe17a11a0e750c9e3735f466fa415e999",
       "target_path": "research_machine/records/C-0025.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0026",
       "source_path": "research_machine/records/C-0026.yaml",
       "source_blob_sha": "92448a556435f722fc12bc74784da4c65a8a5cba",
       "target_path": "research_machine/records/C-0026.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0027",
       "source_path": "research_machine/records/C-0027.yaml",
       "source_blob_sha": "94a7284ff3b3b3f1992dabcb884bbfcc377fb89f",
       "target_path": "research_machine/records/C-0027.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0028",
       "source_path": "research_machine/records/C-0028.yaml",
       "source_blob_sha": "9e7015822687c949f6d55ac2a2ba6319f4096738",
       "target_path": "research_machine/records/C-0028.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0029",
       "source_path": "research_machine/records/C-0029.yaml",
       "source_blob_sha": "a3d08d9c393c0e406af564fc88de3b62405057fb",
       "target_path": "research_machine/records/C-0029.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0030",
       "source_path": "research_machine/records/C-0030.yaml",
       "source_blob_sha": "6379ba51b3252d9fbb7a04e6b72fc7f74aaba19a",
       "target_path": "research_machine/records/C-0030.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0031",
       "source_path": "research_machine/records/C-0031.yaml",
       "source_blob_sha": "f5717663e45a64d8b7c813b552687c6f72df8e7c",
       "target_path": "research_machine/records/C-0031.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0032",
       "source_path": "research_machine/records/C-0032.yaml",
       "source_blob_sha": "7eb05fc96c0c64e7a4dbcc524b30c4a286b30c3f",
       "target_path": "research_machine/records/C-0032.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0033",
       "source_path": "research_machine/records/C-0033.yaml",
       "source_blob_sha": "b12ab3a251605e1f3a94679432f565f60ffe0a35",
       "target_path": "research_machine/records/C-0033.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0034",
       "source_path": "research_machine/records/C-0034.yaml",
       "source_blob_sha": "69c0fc9cd131229ff9fffe6616637bba99291736",
       "target_path": "research_machine/records/C-0034.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0035",
       "source_path": "research_machine/records/C-0035.yaml",
       "source_blob_sha": "446e217a3e1c95f47e02720eebd22a732754ec68",
       "target_path": "research_machine/records/C-0035.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0036",
       "source_path": "research_machine/records/C-0036.yaml",
       "source_blob_sha": "e036d1e0b4d79598bf00aa5ce1116d65b8c107db",
       "target_path": "research_machine/records/C-0036.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0037",
       "source_path": "research_machine/records/C-0037.yaml",
       "source_blob_sha": "24485fd7e5ea6d9131b6913c91740fff51aa6b95",
       "target_path": "research_machine/records/C-0037.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0038",
       "source_path": "research_machine/records/C-0038.yaml",
       "source_blob_sha": "b58e5d488df13a40912dc6e02d4ed114e80e142d",
       "target_path": "research_machine/records/C-0038.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0039",
       "source_path": "research_machine/records/C-0039.yaml",
       "source_blob_sha": "5c298ad25b7dca5af96897f3cce56ac842f0f326",
       "target_path": "research_machine/records/C-0039.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0040",
       "source_path": "research_machine/records/C-0040.yaml",
       "source_blob_sha": "d89f2d1cf7c58c19749ed9539d764eda0a08a681",
       "target_path": "research_machine/records/C-0040.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0041",
       "source_path": "research_machine/records/C-0041.yaml",
       "source_blob_sha": "c46af3c751dd05e12979abb067f7d1c5cd25d6dc",
       "target_path": "research_machine/records/C-0041.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0042",
       "source_path": "research_machine/records/C-0042.yaml",
       "source_blob_sha": "32daf5eb90a60e507d5c504a7a802e5ad8927e62",
       "target_path": "research_machine/records/C-0042.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0043",
       "source_path": "research_machine/records/C-0043.yaml",
       "source_blob_sha": "66c82ea89deb9c2f9a10d6cdc0d44d6ac1b96cbd",
       "target_path": "research_machine/records/C-0043.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0044",
       "source_path": "research_machine/records/C-0044.yaml",
       "source_blob_sha": "a030547c51c2488342836012844a9ba5d48029ec",
       "target_path": "research_machine/records/C-0044.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0045",
       "source_path": "research_machine/records/C-0045.yaml",
       "source_blob_sha": "0429ca57ce9fb714da1471ad1a79a5d9f2438675",
       "target_path": "research_machine/records/C-0045.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0046",
       "source_path": "research_machine/records/C-0046.yaml",
       "source_blob_sha": "2f964ea928cb58d11709cad5dc4e20573b2e2bb7",
       "target_path": "research_machine/records/C-0046.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0047",
       "source_path": "research_machine/records/C-0047.yaml",
       "source_blob_sha": "65d76582ccc4bf033a7601d00dbfba63435de619",
       "target_path": "research_machine/records/C-0047.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0048",
       "source_path": "research_machine/records/C-0048.yaml",
       "source_blob_sha": "8d19106da6768ffcc32d0dfdc87fa28f9205cd48",
       "target_path": "research_machine/records/C-0048.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0049",
       "source_path": "research_machine/records/C-0049.yaml",
       "source_blob_sha": "e7ee07af7fac3282a97332dc73fd692e025d4c4b",
       "target_path": "research_machine/records/C-0049.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0050",
       "source_path": "research_machine/records/C-0050.yaml",
       "source_blob_sha": "272f5ae4bafcd6bbd6b3ac8d3808ef634966b003",
       "target_path": "research_machine/records/C-0050.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0051",
       "source_path": "research_machine/records/C-0051.yaml",
       "source_blob_sha": "d2f19216c71827b2cc2098339975fa39c0fd7f22",
       "target_path": "research_machine/records/C-0051.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0052",
       "source_path": "research_machine/records/C-0052.yaml",
       "source_blob_sha": "7155fd178ec337782c0e0b277b5dff45df14512f",
       "target_path": "research_machine/records/C-0052.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0053",
       "source_path": "research_machine/records/C-0053.yaml",
       "source_blob_sha": "1e972f8e220c3e8bcaea9d739a1fd97273e0a783",
       "target_path": "research_machine/records/C-0053.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0054",
       "source_path": "research_machine/records/C-0054.yaml",
       "source_blob_sha": "607a025f243245c53a8e6d95f8d7c8988b843a54",
       "target_path": "research_machine/records/C-0054.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0055",
       "source_path": "research_machine/records/C-0055.yaml",
       "source_blob_sha": "2c68fde74a6092fbb24b7d5741b56b20f772bd12",
       "target_path": "research_machine/records/C-0055.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0056",
       "source_path": "research_machine/records/C-0056.yaml",
       "source_blob_sha": "41ea6cdc2a46926c24136c85ace0513851118da3",
       "target_path": "research_machine/records/C-0056.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0057",
       "source_path": "research_machine/records/C-0057.yaml",
       "source_blob_sha": "abc13a7ba2a0d72821adda86fc5a2385b556abfb",
       "target_path": "research_machine/records/C-0057.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0058",
       "source_path": "research_machine/records/C-0058.yaml",
       "source_blob_sha": "14195b64c5443de76f402ddf50427d253f50b6f2",
       "target_path": "research_machine/records/C-0058.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0059",
       "source_path": "research_machine/records/C-0059.yaml",
       "source_blob_sha": "cc8d80d5aabaa3d23a485720fc77f3a90785f441",
       "target_path": "research_machine/records/C-0059.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0060",
       "source_path": "research_machine/records/C-0060.yaml",
       "source_blob_sha": "22b5715d3583bad016175e79617e866b61edc42f",
       "target_path": "research_machine/records/C-0060.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0061",
       "source_path": "research_machine/records/C-0061.yaml",
       "source_blob_sha": "872a73a8641d65f0188acd9fb5d2d45255ac282d",
       "target_path": "research_machine/records/C-0061.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0062",
       "source_path": "research_machine/records/C-0062.yaml",
       "source_blob_sha": "da798b653520cee7b1af9fbef299ccbfa70d4a90",
       "target_path": "research_machine/records/C-0062.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0063",
       "source_path": "research_machine/records/C-0063.yaml",
       "source_blob_sha": "bbea7348167f1b7b5bdb56cdcce7bcfe8ee53694",
       "target_path": "research_machine/records/C-0063.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0064",
       "source_path": "research_machine/records/C-0064.yaml",
       "source_blob_sha": "3f259c92d5878ab6a1da6d16b32ef7361b2b6dcf",
       "target_path": "research_machine/records/C-0064.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0065",
       "source_path": "research_machine/records/C-0065.yaml",
       "source_blob_sha": "d1ad22eea935039c709cd50c2398188040e480d2",
       "target_path": "research_machine/records/C-0065.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0066",
       "source_path": "research_machine/records/C-0066.yaml",
       "source_blob_sha": "17b67120b2ed3c3c1ab6f191e6f87040029a003a",
       "target_path": "research_machine/records/C-0066.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0067",
       "source_path": "research_machine/records/C-0067.yaml",
       "source_blob_sha": "9fc119821fbf1072a079ed804ec4382a1e60b642",
       "target_path": "research_machine/records/C-0067.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0068",
       "source_path": "research_machine/records/C-0068.yaml",
       "source_blob_sha": "e9f5f16e7fd85f9390cd24fd3a34d8822fb30e32",
       "target_path": "research_machine/records/C-0068.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0069",
       "source_path": "research_machine/records/C-0069.yaml",
       "source_blob_sha": "9c878e792692c62ae28344a3cc7a595aa15e9448",
       "target_path": "research_machine/records/C-0069.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0070",
       "source_path": "research_machine/records/C-0070.yaml",
       "source_blob_sha": "9fb7e81b2676db578df84a7aa77141b1b421ae4e",
       "target_path": "research_machine/records/C-0070.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0071",
       "source_path": "research_machine/records/C-0071.yaml",
       "source_blob_sha": "8abd6a38066a1086f70563db09ad74a1402c3868",
       "target_path": "research_machine/records/C-0071.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0072",
       "source_path": "research_machine/records/C-0072.yaml",
       "source_blob_sha": "7f8f7f5cf7fe860c00bcbba2808fd8d706d029b5",
       "target_path": "research_machine/records/C-0072.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0073",
       "source_path": "research_machine/records/C-0073.yaml",
       "source_blob_sha": "c1a1d598da16eb922272fadb46094d806e047054",
       "target_path": "research_machine/records/C-0073.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0074",
       "source_path": "research_machine/records/C-0074.yaml",
       "source_blob_sha": "3ea7efee876dc689368b1a65242fa5cff81a2e40",
       "target_path": "research_machine/records/C-0074.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0075",
       "source_path": "research_machine/records/C-0075.yaml",
       "source_blob_sha": "798368ef55dfc98a5fb6ba38be39560bc7f67d63",
       "target_path": "research_machine/records/C-0075.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0076",
       "source_path": "research_machine/records/C-0076.yaml",
       "source_blob_sha": "559df4a91fd6b316f5e370669f1fecb78772ec59",
       "target_path": "research_machine/records/C-0076.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0077",
       "source_path": "research_machine/records/C-0077.yaml",
       "source_blob_sha": "51a75008fc67cd55af7e0b1a5bede3777d97d5d3",
       "target_path": "research_machine/records/C-0077.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0078",
       "source_path": "research_machine/records/C-0078.yaml",
       "source_blob_sha": "194cd62f97f5542ec7d138148d429e92aa937aad",
       "target_path": "research_machine/records/C-0078.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0079",
       "source_path": "research_machine/records/C-0079.yaml",
       "source_blob_sha": "af61bf977599b077b6b29eb4913d4e3ee473e257",
       "target_path": "research_machine/records/C-0079.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0080",
       "source_path": "research_machine/records/C-0080.yaml",
       "source_blob_sha": "b81004d4496e9b313140b49da3669fbe36fd406f",
       "target_path": "research_machine/records/C-0080.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0081",
       "source_path": "research_machine/records/C-0081.yaml",
       "source_blob_sha": "adcba6867bc83f66d171793418289483e5b47fb9",
       "target_path": "research_machine/records/C-0081.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0082",
       "source_path": "research_machine/records/C-0082.yaml",
       "source_blob_sha": "5de147870ea3d9ebb703a480637d9a4719673ec0",
       "target_path": "research_machine/records/C-0082.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0083",
       "source_path": "research_machine/records/C-0083.yaml",
       "source_blob_sha": "de6461693ef7781205d0226f0af7ffb80163e150",
       "target_path": "research_machine/records/C-0083.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0084",
       "source_path": "research_machine/records/C-0084.yaml",
       "source_blob_sha": "a9e19a541f9793c0f9537d114e2a25495b70ff07",
       "target_path": "research_machine/records/C-0084.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0085",
       "source_path": "research_machine/records/C-0085.yaml",
       "source_blob_sha": "2831952bac38f3e2bc4bcde42de6aeae8ccc1c3c",
       "target_path": "research_machine/records/C-0085.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0086",
       "source_path": "research_machine/records/C-0086.yaml",
       "source_blob_sha": "1400b88f513214b5e31294c396d540de3f67dc16",
       "target_path": "research_machine/records/C-0086.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0087",
       "source_path": "research_machine/records/C-0087.yaml",
       "source_blob_sha": "d81f1f8351849c876d5b1cef13d49bb2366837ac",
       "target_path": "research_machine/records/C-0087.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0088",
       "source_path": "research_machine/records/C-0088.yaml",
       "source_blob_sha": "cb658b1eaad7a9d216ff1e60934cad159e13b4c6",
       "target_path": "research_machine/records/C-0088.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0089",
       "source_path": "research_machine/records/C-0089.yaml",
       "source_blob_sha": "a571bd32f30d6af28ad1ade2b429bfc17c15e000",
       "target_path": "research_machine/records/C-0089.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0090",
       "source_path": "research_machine/records/C-0090.yaml",
       "source_blob_sha": "e3e8ba3628835d484bb0bc5bb068cac340c1cb63",
       "target_path": "research_machine/records/C-0090.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0091",
       "source_path": "research_machine/records/C-0091.yaml",
       "source_blob_sha": "bd87a867b94b212370aca6f431ae6a2f6d410406",
       "target_path": "research_machine/records/C-0091.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0092",
       "source_path": "research_machine/records/C-0092.yaml",
       "source_blob_sha": "eb149131165110daa8ec23d9c21a06001738e3e3",
       "target_path": "research_machine/records/C-0092.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0093",
       "source_path": "research_machine/records/C-0093.yaml",
       "source_blob_sha": "702dcd78bc7a344f8715e19838f6615762e287d5",
       "target_path": "research_machine/records/C-0093.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0094",
       "source_path": "research_machine/records/C-0094.yaml",
       "source_blob_sha": "6d6d27034f59e9909b7dbac10ac75a641569cf4d",
       "target_path": "research_machine/records/C-0094.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0095",
       "source_path": "research_machine/records/C-0095.yaml",
       "source_blob_sha": "76659c92431a5f16c5a196ba16c22de178d15331",
       "target_path": "research_machine/records/C-0095.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0096",
       "source_path": "research_machine/records/C-0096.yaml",
       "source_blob_sha": "abb4ff6b2beca34b699313eda25f053587ee7682",
       "target_path": "research_machine/records/C-0096.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0097",
       "source_path": "research_machine/records/C-0097.yaml",
       "source_blob_sha": "84c575ac461f7ed8f1ab0cafd0b226309e9f9af6",
       "target_path": "research_machine/records/C-0097.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0098",
       "source_path": "research_machine/records/C-0098.yaml",
       "source_blob_sha": "8aeadf3e350363a297f8d99e9674047d9d00f99a",
       "target_path": "research_machine/records/C-0098.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0099",
       "source_path": "research_machine/records/C-0099.yaml",
       "source_blob_sha": "58ee6cbbc4c62ede14e73e9bc217971ff3562025",
       "target_path": "research_machine/records/C-0099.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0100",
       "source_path": "research_machine/records/C-0100.yaml",
       "source_blob_sha": "fccdabd0fc9116c9470d83f10b8d38ce2408cc05",
       "target_path": "research_machine/records/C-0100.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0101",
       "source_path": "research_machine/records/C-0101.yaml",
       "source_blob_sha": "3b14dbf542c4080ae5c5297b1d141e8dac1f4779",
       "target_path": "research_machine/records/C-0101.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0102",
       "source_path": "research_machine/records/C-0102.yaml",
       "source_blob_sha": "bafdc06456423eed3a4b8f5ff88901be10108635",
       "target_path": "research_machine/records/C-0102.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0103",
       "source_path": "research_machine/records/C-0103.yaml",
       "source_blob_sha": "fb53be1670cfc12fb8ad7c75a5800c1862581914",
       "target_path": "research_machine/records/C-0103.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0104",
       "source_path": "research_machine/records/C-0104.yaml",
       "source_blob_sha": "a47b89a96db7e8d42779c5fc6fb8dc1c1e95c754",
       "target_path": "research_machine/records/C-0104.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0105",
       "source_path": "research_machine/records/C-0105.yaml",
       "source_blob_sha": "db64b0364857ee1067a194351ee2c987054054a9",
       "target_path": "research_machine/records/C-0105.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0106",
       "source_path": "research_machine/records/C-0106.yaml",
       "source_blob_sha": "fd6e37aad3aaa5538679eed8b5bdef4c7acba1a2",
       "target_path": "research_machine/records/C-0106.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0107",
       "source_path": "research_machine/records/C-0107.yaml",
       "source_blob_sha": "f2a581317a55945fe7c7c78f311edecfbde299f0",
       "target_path": "research_machine/records/C-0107.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0108",
       "source_path": "research_machine/records/C-0108.yaml",
       "source_blob_sha": "509cbc65be9917a5c9c850086dabbc3778f0ec68",
       "target_path": "research_machine/records/C-0108.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0109",
       "source_path": "research_machine/records/C-0109.yaml",
       "source_blob_sha": "ed8cd5a40212f14d49824553066133eeb70ddc7e",
       "target_path": "research_machine/records/C-0109.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0110",
       "source_path": "research_machine/records/C-0110.yaml",
       "source_blob_sha": "213655468b58094cad6298065ca6bdf69f91e6f5",
       "target_path": "research_machine/records/C-0110.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0111",
       "source_path": "research_machine/records/C-0111.yaml",
       "source_blob_sha": "727b5fafa02352c7541bf68da550ea4a8d1059ef",
       "target_path": "research_machine/records/C-0111.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0112",
       "source_path": "research_machine/records/C-0112.yaml",
       "source_blob_sha": "aed5a9d31f827bbd50af56db914314ed51db0ff5",
       "target_path": "research_machine/records/C-0112.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0113",
       "source_path": "research_machine/records/C-0113.yaml",
       "source_blob_sha": "8dd83253b5b836904a9c6ea2e4ad71247e817c83",
       "target_path": "research_machine/records/C-0113.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0114",
       "source_path": "research_machine/records/C-0114.yaml",
       "source_blob_sha": "1b58a439dccf67d17485f345e58afd0a42f23523",
       "target_path": "research_machine/records/C-0114.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0115",
       "source_path": "research_machine/records/C-0115.yaml",
       "source_blob_sha": "a2a367c660a84c588054f5c9ed691790d871ebd4",
       "target_path": "research_machine/records/C-0115.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0116",
       "source_path": "research_machine/records/C-0116.yaml",
       "source_blob_sha": "285c9e1417a24b5c6e7666b5d1b370b217fce6df",
       "target_path": "research_machine/records/C-0116.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0117",
       "source_path": "research_machine/records/C-0117.yaml",
       "source_blob_sha": "883b240eb3f3505119081e1b4d848c8999d8797d",
       "target_path": "research_machine/records/C-0117.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0118",
       "source_path": "research_machine/records/C-0118.yaml",
       "source_blob_sha": "22d6fff775a1bf8b2a3f9b7f7c3ad242139aeafd",
       "target_path": "research_machine/records/C-0118.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0119",
       "source_path": "research_machine/records/C-0119.yaml",
       "source_blob_sha": "5d2ae9908c91df28f594f0a5c57a75f99884a407",
       "target_path": "research_machine/records/C-0119.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0120",
       "source_path": "research_machine/records/C-0120.yaml",
       "source_blob_sha": "6d4ca10b5737acefcdb42125eb8055bbb2865049",
       "target_path": "research_machine/records/C-0120.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0121",
       "source_path": "research_machine/records/C-0121.yaml",
       "source_blob_sha": "f6b3046cf1f21bec661518b86bcdc486307cf85a",
       "target_path": "research_machine/records/C-0121.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0122",
       "source_path": "research_machine/records/C-0122.yaml",
       "source_blob_sha": "d26a323499d76cba67e8a5d69a862e2ad09bc627",
       "target_path": "research_machine/records/C-0122.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0123",
       "source_path": "research_machine/records/C-0123.yaml",
       "source_blob_sha": "41f06a422b24a083c6b12102cea33492cad4c4cd",
       "target_path": "research_machine/records/C-0123.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0124",
       "source_path": "research_machine/records/C-0124.yaml",
       "source_blob_sha": "955a6fa3453be5a398098c1fcd5537677f0b8d2b",
       "target_path": "research_machine/records/C-0124.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0125",
       "source_path": "research_machine/records/C-0125.yaml",
       "source_blob_sha": "fed29141bc43206ecf2fba92e86c81284dde712a",
       "target_path": "research_machine/records/C-0125.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0126",
       "source_path": "research_machine/records/C-0126.yaml",
       "source_blob_sha": "220e6d32fb1cff159219963813ca803b84307acb",
       "target_path": "research_machine/records/C-0126.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0129",
       "source_path": "research_machine/records/C-0129.yaml",
       "source_blob_sha": "3bc8b1d4db66d8d86b74e7403983775b4883d7a3",
       "target_path": "research_machine/records/C-0129.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0130",
       "source_path": "research_machine/records/C-0130.yaml",
       "source_blob_sha": "840428a009c3bf12d8511e8a0e697d2d0a09ab46",
       "target_path": "research_machine/records/C-0130.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0131",
       "source_path": "research_machine/records/C-0131.yaml",
       "source_blob_sha": "7114944527c1c371545368d0381361780bf5f76a",
       "target_path": "research_machine/records/C-0131.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0132",
       "source_path": "research_machine/records/C-0132.yaml",
       "source_blob_sha": "0c3ed0cfbc8415e10d3429728c218b8bb3549b44",
       "target_path": "research_machine/records/C-0132.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0133",
       "source_path": "research_machine/records/C-0133.yaml",
       "source_blob_sha": "10b85ae1e29724c20da2810f947326579c7a8694",
       "target_path": "research_machine/records/C-0133.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0134",
       "source_path": "research_machine/records/C-0134.yaml",
       "source_blob_sha": "47c1721309ab2a5a40679a57b0a63ec739a25165",
       "target_path": "research_machine/records/C-0134.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0135",
       "source_path": "research_machine/records/C-0135.yaml",
       "source_blob_sha": "88a940d11009284a5203ede76c84e4f0936e79b1",
       "target_path": "research_machine/records/C-0135.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0136",
       "source_path": "research_machine/records/C-0136.yaml",
       "source_blob_sha": "68d5aed3258f6f3e8983996c5879c109c97ddeb6",
       "target_path": "research_machine/records/C-0136.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0137",
       "source_path": "research_machine/records/C-0137.yaml",
       "source_blob_sha": "999cdd135a42307e46f131b7c1ab297df538bc1c",
       "target_path": "research_machine/records/C-0137.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0138",
       "source_path": "research_machine/records/C-0138.yaml",
       "source_blob_sha": "0e1298cdb5b055a8f5d1eb9d3321325414c61819",
       "target_path": "research_machine/records/C-0138.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0139",
       "source_path": "research_machine/records/C-0139.yaml",
       "source_blob_sha": "512586cf9872c74d99988b6057b862835d488f26",
       "target_path": "research_machine/records/C-0139.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0140",
       "source_path": "research_machine/records/C-0140.yaml",
       "source_blob_sha": "26b4c04662731cf66a41821f6e525d70fd960621",
       "target_path": "research_machine/records/C-0140.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0141",
       "source_path": "research_machine/records/C-0141.yaml",
       "source_blob_sha": "987fe663bf8be8371174792c2b0cd48c9d2c6b8a",
       "target_path": "research_machine/records/C-0141.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0142",
       "source_path": "research_machine/records/C-0142.yaml",
       "source_blob_sha": "9cfd04ff7b3a2cce1081b587ce03ecc8bd332946",
       "target_path": "research_machine/records/C-0142.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0143",
       "source_path": "research_machine/records/C-0143.yaml",
       "source_blob_sha": "78d8222da769e6e466796ed1ea834f75028dae2d",
       "target_path": "research_machine/records/C-0143.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0144",
       "source_path": "research_machine/records/C-0144.yaml",
       "source_blob_sha": "5224aa16e4ceed4995c887901a8fdefb9828d317",
       "target_path": "research_machine/records/C-0144.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0145",
       "source_path": "research_machine/records/C-0145.yaml",
       "source_blob_sha": "d647a076b3275cb77ba83b2dbe34a2427e248bf0",
       "target_path": "research_machine/records/C-0145.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0146",
       "source_path": "research_machine/records/C-0146.yaml",
       "source_blob_sha": "3c95d5c392b8c618a8c48f4cf4adfc2a5e315cb2",
       "target_path": "research_machine/records/C-0146.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0147",
       "source_path": "research_machine/records/C-0147.yaml",
       "source_blob_sha": "1dc1d2ad2b4d8d9f1005b3ca3b89bab5e10e72ad",
       "target_path": "research_machine/records/C-0147.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0148",
       "source_path": "research_machine/records/C-0148.yaml",
       "source_blob_sha": "940aeceabf585f2e5d6dfb2e6b89e3429168cbed",
       "target_path": "research_machine/records/C-0148.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0149",
       "source_path": "research_machine/records/C-0149.yaml",
       "source_blob_sha": "0227ce070cb71f5d207469ff62df6c5529552211",
       "target_path": "research_machine/records/C-0149.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0150",
       "source_path": "research_machine/records/C-0150.yaml",
       "source_blob_sha": "69c1757ff466212082fccfe3408ac4a0c73f90c2",
       "target_path": "research_machine/records/C-0150.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0151",
       "source_path": "research_machine/records/C-0151.yaml",
       "source_blob_sha": "b946de510f9fe64d741de8f930ee139e779ea374",
       "target_path": "research_machine/records/C-0151.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0152",
       "source_path": "research_machine/records/C-0152.yaml",
       "source_blob_sha": "6233132c9f8ad42fd3deece690d4db22bcd065c1",
       "target_path": "research_machine/records/C-0152.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0153",
       "source_path": "research_machine/records/C-0153.yaml",
       "source_blob_sha": "9c7a04aeeb344214856d6977e78e1a055323b1e5",
       "target_path": "research_machine/records/C-0153.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0154",
       "source_path": "research_machine/records/C-0154.yaml",
       "source_blob_sha": "cad9f7a988e45d2b3a1769a3e6253040e38d85b9",
       "target_path": "research_machine/records/C-0154.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0155",
       "source_path": "research_machine/records/C-0155.yaml",
       "source_blob_sha": "56e0cbc7a01d3d58f02d8ec1fd142717b64a2236",
       "target_path": "research_machine/records/C-0155.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0156",
       "source_path": "research_machine/records/C-0156.yaml",
       "source_blob_sha": "c04cc4a3ea03f89685ed73a8084d765a301483a1",
       "target_path": "research_machine/records/C-0156.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0157",
       "source_path": "research_machine/records/C-0157.yaml",
       "source_blob_sha": "ac51c98debb62bd9afe24c2b2ac892eaa5ccd037",
       "target_path": "research_machine/records/C-0157.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0158",
       "source_path": "research_machine/records/C-0158.yaml",
       "source_blob_sha": "4c6e753936427788050a509494bc7115758cd2d7",
       "target_path": "research_machine/records/C-0158.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0159",
       "source_path": "research_machine/records/C-0159.yaml",
       "source_blob_sha": "bc61a47c9a1e46fb59ba0c3d6066c5669a4e223d",
       "target_path": "research_machine/records/C-0159.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0160",
       "source_path": "research_machine/records/C-0160.yaml",
       "source_blob_sha": "0a341164f2a8d06d8bbfc70684d34535d6c5cd2d",
       "target_path": "research_machine/records/C-0160.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0161",
       "source_path": "research_machine/records/C-0161.yaml",
       "source_blob_sha": "212aa73e368d0640393148abebab095bf51034b0",
       "target_path": "research_machine/records/C-0161.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0162",
       "source_path": "research_machine/records/C-0162.yaml",
       "source_blob_sha": "d7c6c93967997d5fe738fa8514f3280f28b77d7e",
       "target_path": "research_machine/records/C-0162.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0163",
       "source_path": "research_machine/records/C-0163.yaml",
       "source_blob_sha": "9dd8adaf996ac3b04aca6a81a0105078c2380df2",
       "target_path": "research_machine/records/C-0163.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0164",
       "source_path": "research_machine/records/C-0164.yaml",
       "source_blob_sha": "0b5e9ca4bec1963de46f3a9903caea60c9ee6671",
       "target_path": "research_machine/records/C-0164.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0165",
       "source_path": "research_machine/records/C-0165.yaml",
       "source_blob_sha": "42c4d2d19c8b240f5cf39ae48a51932a4b4f901f",
       "target_path": "research_machine/records/C-0165.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0166",
       "source_path": "research_machine/records/C-0166.yaml",
       "source_blob_sha": "fb6b4f31ea9fbab54121d8e2ccadbd3cd7e98ee7",
       "target_path": "research_machine/records/C-0166.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0167",
       "source_path": "research_machine/records/C-0167.yaml",
       "source_blob_sha": "a865f0a79b14252d9f417f2a7e8fb10f608768b7",
       "target_path": "research_machine/records/C-0167.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0168",
       "source_path": "research_machine/records/C-0168.yaml",
       "source_blob_sha": "8c05203dd28b815c8348a56a6c16986421d2921e",
       "target_path": "research_machine/records/C-0168.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0169",
       "source_path": "research_machine/records/C-0169.yaml",
       "source_blob_sha": "139e116c62e4fb9a2dcbd493f87e0ef6f0106575",
       "target_path": "research_machine/records/C-0169.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0170",
       "source_path": "research_machine/records/C-0170.yaml",
       "source_blob_sha": "b6998f455a9f4a2c465af18b2ea5202c2915ab57",
       "target_path": "research_machine/records/C-0170.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0171",
       "source_path": "research_machine/records/C-0171.yaml",
       "source_blob_sha": "45ece214fc40ce6be70fb60cba0e522f2503f30b",
       "target_path": "research_machine/records/C-0171.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0172",
       "source_path": "research_machine/records/C-0172.yaml",
       "source_blob_sha": "c67eee7d0c95c13ff2a046e1269b528a3c3f3840",
       "target_path": "research_machine/records/C-0172.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0173",
       "source_path": "research_machine/records/C-0173.yaml",
       "source_blob_sha": "e183ad1c45d22de2078e415af43d64421bc27742",
       "target_path": "research_machine/records/C-0173.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0174",
       "source_path": "research_machine/records/C-0174.yaml",
       "source_blob_sha": "e1b0fd0a6a8e8d121e6e69e891bb218d0ab0be0c",
       "target_path": "research_machine/records/C-0174.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0175",
       "source_path": "research_machine/records/C-0175.yaml",
       "source_blob_sha": "bdd8f4f5936bbbc2ae2d565c7a5c60e8d1d8f1fa",
       "target_path": "research_machine/records/C-0175.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0176",
       "source_path": "research_machine/records/C-0176.yaml",
       "source_blob_sha": "5c09e312a69aa3bbb5579e9ef9337277b7884b6c",
       "target_path": "research_machine/records/C-0176.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0177",
       "source_path": "research_machine/records/C-0177.yaml",
       "source_blob_sha": "590aebb74fc53696c9e754cf6649ee8d1826a3ed",
       "target_path": "research_machine/records/C-0177.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0178",
       "source_path": "research_machine/records/C-0178.yaml",
       "source_blob_sha": "bdc177de779268b12c29ab56abbc4929613f88d3",
       "target_path": "research_machine/records/C-0178.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0179",
       "source_path": "research_machine/records/C-0179.yaml",
       "source_blob_sha": "a4ccc690298117dceb5f4f4f7a5380c765b73eee",
       "target_path": "research_machine/records/C-0179.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0180",
       "source_path": "research_machine/records/C-0180.yaml",
       "source_blob_sha": "a79d16642d3948e7cc2e45945ba30edb9e387139",
       "target_path": "research_machine/records/C-0180.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0181",
       "source_path": "research_machine/records/C-0181.yaml",
       "source_blob_sha": "0e7567b851202a3cdc9974f7be5f3f596fb751ec",
       "target_path": "research_machine/records/C-0181.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0182",
       "source_path": "research_machine/records/C-0182.yaml",
       "source_blob_sha": "9282c1960bb098042a09e9f778c64042c1c68fa0",
       "target_path": "research_machine/records/C-0182.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0183",
       "source_path": "research_machine/records/C-0183.yaml",
       "source_blob_sha": "f5c7e4a80f5c56ef8d200a9a9b9a5916666306e8",
       "target_path": "research_machine/records/C-0183.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0184",
       "source_path": "research_machine/records/C-0184.yaml",
       "source_blob_sha": "69f4941bf51319af4f6b8439b4b57edb8868689b",
       "target_path": "research_machine/records/C-0184.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     },
     {
       "id": "C-0185",
       "source_path": "research_machine/records/C-0185.yaml",
       "source_blob_sha": "50b539d40c73d9447102641a34965c68a9a1dbf5",
       "target_path": "research_machine/records/C-0185.yaml",
-      "status": "PENDING_CONTENT_COPY"
+      "status": "CONTENT-VERIFIED"
     }
   ]
 }
